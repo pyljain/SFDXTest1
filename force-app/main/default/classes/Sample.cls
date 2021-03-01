@@ -15,7 +15,7 @@
  * Sample class used to test the CI/CD pipeline covered in the associated
  * tutorial.
  *
- * @author Google Inc. - testing
+ * @author Google Inc.
  */
 public class Sample {
 
