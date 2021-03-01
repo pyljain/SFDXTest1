@@ -26,6 +26,7 @@ public class Sample {
     */
 
   public static Integer addOne(Integer x) {
+    // Add comment
     return x + 1;
   }
 }
